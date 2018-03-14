@@ -1,7 +1,7 @@
 {
-  "profiles":[
-    {"id":1, "name":"Milind", "age":24},
-    {"id":2, "name":"Shreya", "age":24},
-    {"id":3, "name":"Basavant", "age":26}
+  "profiles" : [
+    { "id":1, "name":"Milind", "age":24},
+    { "id":2, "name":"Shreya", "age":24},
+    { "id":3, "name":"Basavant", "age":26}
   ]
 }
